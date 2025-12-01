@@ -97,8 +97,8 @@ GARBAGE_INTRODUCTION = {
 }
 
 # 固定模型和配置文件路径
-MODEL_PATH = r"D:\Study\ultralytics-main\garbage_detection\double_label_train7\weights\best.pt"
-YAML_PATH = r"D:\Study\ultralytics-main\lajifenlei.yaml"
+MODEL_PATH = r"garbage_detection/double_label_train7/weights/best.pt"
+YAML_PATH = "lajifenlei.yaml"
 
 # 全局变量：模型和标签映射
 model = None
