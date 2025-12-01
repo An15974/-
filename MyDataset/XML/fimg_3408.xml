@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3408.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/皮鞋</name>
+				<bndbox>
+					<xmin>49</xmin>
+					<ymin>89</ymin>
+					<xmax>247</xmax>
+					<ymax>165</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621393441457</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>290</width>
+		<height>174</height>
+		<depth>3</depth>
+	</size>
+</doc>

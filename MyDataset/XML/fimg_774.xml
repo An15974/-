@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾5\fimg_774.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 厨余垃圾/剩饭剩菜</name>
+				<bndbox>
+					<xmin>119</xmin>
+					<ymin>230</ymin>
+					<xmax>230</xmax>
+					<ymax>346</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/剩饭剩菜</name>
+				<bndbox>
+					<xmin>155</xmin>
+					<ymin>54</ymin>
+					<xmax>221</xmax>
+					<ymax>111</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621414640465</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>385</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1626.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>13</xmin>
+					<ymin>31</ymin>
+					<xmax>71</xmax>
+					<ymax>340</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>70</xmin>
+					<ymin>67</ymin>
+					<xmax>129</xmax>
+					<ymax>339</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>133</xmin>
+					<ymin>111</ymin>
+					<xmax>177</xmax>
+					<ymax>337</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>181</xmin>
+					<ymin>155</ymin>
+					<xmax>226</xmax>
+					<ymax>335</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>225</xmin>
+					<ymin>169</ymin>
+					<xmax>274</xmax>
+					<ymax>337</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>277</xmin>
+					<ymin>139</ymin>
+					<xmax>345</xmax>
+					<ymax>235</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>281</xmin>
+					<ymin>229</ymin>
+					<xmax>353</xmax>
+					<ymax>343</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621393836755</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>362</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+</doc>

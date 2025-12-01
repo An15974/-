@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3585.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/调料瓶</name>
+				<bndbox>
+					<xmin>88</xmin>
+					<ymin>0</ymin>
+					<xmax>180</xmax>
+					<ymax>187</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621394714872</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>271</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+</doc>

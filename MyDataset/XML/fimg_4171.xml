@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_4171.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 有害垃圾/过期药物</name>
+				<bndbox>
+					<xmin>190</xmin>
+					<ymin>47</ymin>
+					<xmax>262</xmax>
+					<ymax>115</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 有害垃圾/过期药物</name>
+				<bndbox>
+					<xmin>102</xmin>
+					<ymin>23</ymin>
+					<xmax>158</xmax>
+					<ymax>88</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621410905356</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>283</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+</doc>

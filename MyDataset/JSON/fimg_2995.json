@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_2995.jpg","outputs":{"object":[{"name":" 可回收物/毛绒玩具","bndbox":{"xmin":11,"ymin":32,"xmax":115,"ymax":197}},{"name":" 可回收物/毛绒玩具","bndbox":{"xmin":115,"ymin":34,"xmax":219,"ymax":202}}]},"time_labeled":1621389266399,"labeled":true,"size":{"width":253,"height":253,"depth":3}}

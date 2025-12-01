@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3159.jpg","outputs":{"object":[{"name":" 可回收物/洗发水瓶","bndbox":{"xmin":23,"ymin":15,"xmax":71,"ymax":147}},{"name":" 可回收物/洗发水瓶","bndbox":{"xmin":75,"ymin":6,"xmax":123,"ymax":145}}]},"time_labeled":1621390799759,"labeled":true,"size":{"width":150,"height":150,"depth":3}}

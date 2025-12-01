@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾5\fimg_640.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 其他垃圾/破碎花盆及碟碗</name>
+				<bndbox>
+					<xmin>276</xmin>
+					<ymin>174</ymin>
+					<xmax>488</xmax>
+					<ymax>346</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621413603421</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>489</width>
+		<height>489</height>
+		<depth>3</depth>
+	</size>
+</doc>

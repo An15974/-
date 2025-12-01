@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3111.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/毛绒玩具</name>
+				<bndbox>
+					<xmin>-4</xmin>
+					<ymin>31</ymin>
+					<xmax>689</xmax>
+					<ymax>739</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621390302930</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>750</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3330.jpg","outputs":{"object":[{"name":" 可回收物/玻璃杯","bndbox":{"xmin":36,"ymin":34,"xmax":144,"ymax":306}},{"name":" 可回收物/玻璃杯","bndbox":{"xmin":145,"ymin":114,"xmax":300,"ymax":302}}]},"time_labeled":1621392579566,"labeled":true,"size":{"width":328,"height":328,"depth":3}}

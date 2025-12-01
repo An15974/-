@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1740.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>155</xmin>
+					<ymin>329</ymin>
+					<xmax>296</xmax>
+					<ymax>411</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>169</xmin>
+					<ymin>211</ymin>
+					<xmax>327</xmax>
+					<ymax>283</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>35</xmin>
+					<ymin>219</ymin>
+					<xmax>169</xmax>
+					<ymax>298</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>27</xmin>
+					<ymin>293</ymin>
+					<xmax>207</xmax>
+					<ymax>357</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>267</xmin>
+					<ymin>285</ymin>
+					<xmax>432</xmax>
+					<ymax>370</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621408325708</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>438</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+</doc>

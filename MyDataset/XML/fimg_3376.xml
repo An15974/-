@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3376.jpg</path>
+	<outputs>
+		<object></object>
+	</outputs>
+	<time_labeled>1621393025947</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+</doc>

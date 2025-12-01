@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3674.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/酒瓶</name>
+				<bndbox>
+					<xmin>60</xmin>
+					<ymin>42</ymin>
+					<xmax>122</xmax>
+					<ymax>254</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621395520952</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>175</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+</doc>

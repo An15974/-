@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3481.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/砧板</name>
+				<bndbox>
+					<xmin>12</xmin>
+					<ymin>7</ymin>
+					<xmax>192</xmax>
+					<ymax>223</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621393980392</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>207</width>
+		<height>243</height>
+		<depth>3</depth>
+	</size>
+</doc>

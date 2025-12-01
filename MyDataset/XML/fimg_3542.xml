@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3542.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/纸板箱</name>
+				<bndbox>
+					<xmin>49</xmin>
+					<ymin>0</ymin>
+					<xmax>177</xmax>
+					<ymax>128</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/纸板箱</name>
+				<bndbox>
+					<xmin>236</xmin>
+					<ymin>0</ymin>
+					<xmax>376</xmax>
+					<ymax>127</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621394412145</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>384</width>
+		<height>131</height>
+		<depth>3</depth>
+	</size>
+</doc>

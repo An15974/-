@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_2253.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/塑料衣架</name>
+				<bndbox>
+					<xmin>22</xmin>
+					<ymin>22</ymin>
+					<xmax>272</xmax>
+					<ymax>231</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621321663091</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+</doc>

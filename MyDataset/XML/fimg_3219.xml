@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3219.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/洗发水瓶</name>
+				<bndbox>
+					<xmin>3</xmin>
+					<ymin>22</ymin>
+					<xmax>95</xmax>
+					<ymax>253</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/洗发水瓶</name>
+				<bndbox>
+					<xmin>104</xmin>
+					<ymin>2</ymin>
+					<xmax>196</xmax>
+					<ymax>227</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621391598207</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>198</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+</doc>

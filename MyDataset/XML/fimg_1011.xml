@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1011.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 厨余垃圾/水果果肉</name>
+				<bndbox>
+					<xmin>106</xmin>
+					<ymin>15</ymin>
+					<xmax>220</xmax>
+					<ymax>135</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621323074558</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>223</width>
+		<height>223</height>
+		<depth>3</depth>
+	</size>
+</doc>

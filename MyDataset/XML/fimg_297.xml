@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾4\fimg_297.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 其他垃圾/污损塑料</name>
+				<bndbox>
+					<xmin>30</xmin>
+					<ymin>2</ymin>
+					<xmax>440</xmax>
+					<ymax>338</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621416796480</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>499</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+</doc>

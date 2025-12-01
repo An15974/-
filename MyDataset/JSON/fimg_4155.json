@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_4155.jpg","outputs":{"object":[{"name":" 有害垃圾/过期药物","bndbox":{"xmin":168,"ymin":210,"xmax":402,"ymax":294}},{"name":" 有害垃圾/过期药物","bndbox":{"xmin":262,"ymin":102,"xmax":462,"ymax":230}}]},"time_labeled":1621410802194,"labeled":true,"size":{"width":484,"height":305,"depth":3}}

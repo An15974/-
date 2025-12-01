@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾4\fimg_406.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 其他垃圾/烟蒂</name>
+				<bndbox>
+					<xmin>108</xmin>
+					<ymin>104</ymin>
+					<xmax>198</xmax>
+					<ymax>151</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 其他垃圾/烟蒂</name>
+				<bndbox>
+					<xmin>126</xmin>
+					<ymin>190</ymin>
+					<xmax>192</xmax>
+					<ymax>260</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 其他垃圾/烟蒂</name>
+				<bndbox>
+					<xmin>93</xmin>
+					<ymin>382</ymin>
+					<xmax>232</xmax>
+					<ymax>442</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621417646744</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>440</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+</doc>

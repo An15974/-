@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_2719.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/易拉罐</name>
+				<bndbox>
+					<xmin>70</xmin>
+					<ymin>49</ymin>
+					<xmax>382</xmax>
+					<ymax>329</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621324859383</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>444</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+</doc>

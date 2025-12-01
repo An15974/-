@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_4030.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 有害垃圾/干电池</name>
+				<bndbox>
+					<xmin>91</xmin>
+					<ymin>88</ymin>
+					<xmax>174</xmax>
+					<ymax>299</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 有害垃圾/干电池</name>
+				<bndbox>
+					<xmin>262</xmin>
+					<ymin>79</ymin>
+					<xmax>394</xmax>
+					<ymax>302</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621407673667</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>500</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+</doc>

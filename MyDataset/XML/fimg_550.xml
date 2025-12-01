@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾4\fimg_550.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 其他垃圾/牙签</name>
+				<bndbox>
+					<xmin>72</xmin>
+					<ymin>42</ymin>
+					<xmax>120</xmax>
+					<ymax>186</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621418585551</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+</doc>

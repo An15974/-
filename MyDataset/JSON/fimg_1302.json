@@ -1,0 +1,1 @@
+{"path":"D:\\垃圾1\\fimg_1302.jpg","outputs":{"object":[{"name":" 厨余垃圾/蛋壳","bndbox":{"xmin":99,"ymin":109,"xmax":171,"ymax":163}},{"name":" 厨余垃圾/蛋壳","bndbox":{"xmin":158,"ymin":188,"xmax":228,"ymax":247}},{"name":" 厨余垃圾/蛋壳","bndbox":{"xmin":211,"ymin":75,"xmax":289,"ymax":126}}]},"time_labeled":1621389323651,"labeled":true,"size":{"width":323,"height":323,"depth":3}}

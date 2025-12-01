@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_4136.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 有害垃圾/过期药物</name>
+				<bndbox>
+					<xmin>8</xmin>
+					<ymin>72</ymin>
+					<xmax>198</xmax>
+					<ymax>183</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621410676907</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+</doc>

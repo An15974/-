@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3962.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/食用油桶</name>
+				<bndbox>
+					<xmin>107</xmin>
+					<ymin>19</ymin>
+					<xmax>195</xmax>
+					<ymax>166</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621407035067</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>305</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+</doc>

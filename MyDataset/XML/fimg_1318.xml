@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1318.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>270</xmin>
+					<ymin>273</ymin>
+					<xmax>426</xmax>
+					<ymax>460</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>336</xmin>
+					<ymin>165</ymin>
+					<xmax>482</xmax>
+					<ymax>332</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>74</xmin>
+					<ymin>222</ymin>
+					<xmax>240</xmax>
+					<ymax>424</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>186</xmin>
+					<ymin>128</ymin>
+					<xmax>330</xmax>
+					<ymax>332</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621389478115</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>484</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_4071.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 有害垃圾/干电池</name>
+				<bndbox>
+					<xmin>34</xmin>
+					<ymin>266</ymin>
+					<xmax>334</xmax>
+					<ymax>401</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621408096690</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>500</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+</doc>

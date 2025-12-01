@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3439.jpg","outputs":{"object":[{"name":" 可回收物/皮鞋","bndbox":{"xmin":206,"ymin":49,"xmax":248,"ymax":125}},{"name":" 可回收物/皮鞋","bndbox":{"xmin":55,"ymin":17,"xmax":110,"ymax":154}}]},"time_labeled":1621393653985,"labeled":true,"size":{"width":275,"height":183,"depth":3}}

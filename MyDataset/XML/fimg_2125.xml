@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾3\fimg_2125.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/塑料碗盆</name>
+				<bndbox>
+					<xmin>28</xmin>
+					<ymin>276</ymin>
+					<xmax>442</xmax>
+					<ymax>446</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621414279853</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_2851.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/枕头</name>
+				<bndbox>
+					<xmin>14</xmin>
+					<ymin>19</ymin>
+					<xmax>256</xmax>
+					<ymax>195</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621325486309</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>260</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+</doc>

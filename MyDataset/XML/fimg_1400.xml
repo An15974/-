@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1400.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/充电宝</name>
+				<bndbox>
+					<xmin>211</xmin>
+					<ymin>26</ymin>
+					<xmax>378</xmax>
+					<ymax>374</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/充电宝</name>
+				<bndbox>
+					<xmin>15</xmin>
+					<ymin>32</ymin>
+					<xmax>198</xmax>
+					<ymax>388</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621391488477</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>396</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+</doc>

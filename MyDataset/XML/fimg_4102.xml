@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_4102.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 有害垃圾/软膏</name>
+				<bndbox>
+					<xmin>31</xmin>
+					<ymin>112</ymin>
+					<xmax>260</xmax>
+					<ymax>182</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621408323207</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>293</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+</doc>

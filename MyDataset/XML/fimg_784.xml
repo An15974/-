@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾5\fimg_784.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 厨余垃圾/剩饭剩菜</name>
+				<bndbox>
+					<xmin>177</xmin>
+					<ymin>16</ymin>
+					<xmax>299</xmax>
+					<ymax>118</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/剩饭剩菜</name>
+				<bndbox>
+					<xmin>55</xmin>
+					<ymin>116</ymin>
+					<xmax>176</xmax>
+					<ymax>268</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/剩饭剩菜</name>
+				<bndbox>
+					<xmin>213</xmin>
+					<ymin>188</ymin>
+					<xmax>355</xmax>
+					<ymax>369</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621414695149</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>397</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+</doc>

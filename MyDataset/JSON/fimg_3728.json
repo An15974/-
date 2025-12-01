@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3728.jpg","outputs":{"object":[{"name":" 可回收物/金属食品罐","bndbox":{"xmin":41,"ymin":69,"xmax":121,"ymax":197}},{"name":" 可回收物/金属食品罐","bndbox":{"xmin":133,"ymin":99,"xmax":202,"ymax":197}}]},"time_labeled":1621396028896,"labeled":true,"size":{"width":226,"height":223,"depth":3}}

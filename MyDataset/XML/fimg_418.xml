@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾4\fimg_418.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 其他垃圾/烟蒂</name>
+				<bndbox>
+					<xmin>143</xmin>
+					<ymin>197</ymin>
+					<xmax>343</xmax>
+					<ymax>407</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621417730487</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>446</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+</doc>

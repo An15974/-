@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_2918.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/毛绒玩具</name>
+				<bndbox>
+					<xmin>13</xmin>
+					<ymin>5</ymin>
+					<xmax>209</xmax>
+					<ymax>216</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621325808544</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>218</width>
+		<height>218</height>
+		<depth>3</depth>
+	</size>
+</doc>

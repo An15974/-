@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3335.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/玻璃杯</name>
+				<bndbox>
+					<xmin>165</xmin>
+					<ymin>148</ymin>
+					<xmax>431</xmax>
+					<ymax>940</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621392609844</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>584</width>
+		<height>1040</height>
+		<depth>3</depth>
+	</size>
+</doc>

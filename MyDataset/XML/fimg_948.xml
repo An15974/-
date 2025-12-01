@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾5\fimg_948.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 厨余垃圾/水果果皮</name>
+				<bndbox>
+					<xmin>27</xmin>
+					<ymin>25</ymin>
+					<xmax>90</xmax>
+					<ymax>90</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/水果果皮</name>
+				<bndbox>
+					<xmin>138</xmin>
+					<ymin>65</ymin>
+					<xmax>202</xmax>
+					<ymax>169</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621415765495</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+</doc>

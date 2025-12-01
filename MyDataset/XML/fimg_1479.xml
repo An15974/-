@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1479.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/充电宝</name>
+				<bndbox>
+					<xmin>61</xmin>
+					<ymin>10</ymin>
+					<xmax>152</xmax>
+					<ymax>438</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/充电宝</name>
+				<bndbox>
+					<xmin>290</xmin>
+					<ymin>6</ymin>
+					<xmax>401</xmax>
+					<ymax>434</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/充电宝</name>
+				<bndbox>
+					<xmin>138</xmin>
+					<ymin>20</ymin>
+					<xmax>229</xmax>
+					<ymax>434</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/充电宝</name>
+				<bndbox>
+					<xmin>216</xmin>
+					<ymin>18</ymin>
+					<xmax>308</xmax>
+					<ymax>438</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621392435091</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>440</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+</doc>

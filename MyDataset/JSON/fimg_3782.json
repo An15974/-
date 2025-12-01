@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3782.jpg","outputs":{"object":[{"name":" 可回收物/锅","bndbox":{"xmin":20,"ymin":8,"xmax":320,"ymax":308}},{"name":" 可回收物/锅","bndbox":{"xmin":324,"ymin":32,"xmax":589,"ymax":288}}]},"time_labeled":1621405662093,"labeled":true,"size":{"width":600,"height":372,"depth":3}}

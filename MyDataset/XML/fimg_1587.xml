@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1587.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>83</xmin>
+					<ymin>24</ymin>
+					<xmax>143</xmax>
+					<ymax>368</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>223</xmin>
+					<ymin>246</ymin>
+					<xmax>327</xmax>
+					<ymax>372</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/化妆品瓶</name>
+				<bndbox>
+					<xmin>155</xmin>
+					<ymin>73</ymin>
+					<xmax>207</xmax>
+					<ymax>370</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621393243723</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>405</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+</doc>

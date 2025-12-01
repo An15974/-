@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3017.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/毛绒玩具</name>
+				<bndbox>
+					<xmin>96</xmin>
+					<ymin>163</ymin>
+					<xmax>276</xmax>
+					<ymax>334</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/毛绒玩具</name>
+				<bndbox>
+					<xmin>-3</xmin>
+					<ymin>231</ymin>
+					<xmax>88</xmax>
+					<ymax>331</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/毛绒玩具</name>
+				<bndbox>
+					<xmin>304</xmin>
+					<ymin>206</ymin>
+					<xmax>398</xmax>
+					<ymax>332</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621389526053</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+</doc>

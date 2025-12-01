@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1486.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/充电宝</name>
+				<bndbox>
+					<xmin>80</xmin>
+					<ymin>52</ymin>
+					<xmax>483</xmax>
+					<ymax>396</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621392491834</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>589</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3986.jpg","outputs":{"object":[{"name":" 可回收物/饮料瓶","bndbox":{"xmin":50,"ymin":19,"xmax":128,"ymax":168}},{"name":" 可回收物/饮料瓶","bndbox":{"xmin":136,"ymin":23,"xmax":210,"ymax":167}}]},"time_labeled":1621407200801,"labeled":true,"size":{"width":260,"height":194,"depth":3}}

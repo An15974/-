@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_4078.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 有害垃圾/软膏</name>
+				<bndbox>
+					<xmin>19</xmin>
+					<ymin>116</ymin>
+					<xmax>487</xmax>
+					<ymax>238</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621408142585</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+</doc>

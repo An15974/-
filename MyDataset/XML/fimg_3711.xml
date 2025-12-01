@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3711.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/酒瓶</name>
+				<bndbox>
+					<xmin>107</xmin>
+					<ymin>11</ymin>
+					<xmax>153</xmax>
+					<ymax>182</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/酒瓶</name>
+				<bndbox>
+					<xmin>175</xmin>
+					<ymin>10</ymin>
+					<xmax>227</xmax>
+					<ymax>182</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/酒瓶</name>
+				<bndbox>
+					<xmin>24</xmin>
+					<ymin>14</ymin>
+					<xmax>79</xmax>
+					<ymax>182</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621395886358</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>261</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+</doc>

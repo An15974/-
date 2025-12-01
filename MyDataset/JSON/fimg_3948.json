@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3948.jpg","outputs":{"object":[{"name":" 可回收物/食用油桶","bndbox":{"xmin":89,"ymin":33,"xmax":149,"ymax":167}},{"name":" 可回收物/食用油桶","bndbox":{"xmin":16,"ymin":58,"xmax":53,"ymax":166}}]},"time_labeled":1621406913242,"labeled":true,"size":{"width":200,"height":200,"depth":3}}

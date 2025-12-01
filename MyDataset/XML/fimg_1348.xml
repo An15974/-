@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1348.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 厨余垃圾/鱼骨</name>
+				<bndbox>
+					<xmin>35</xmin>
+					<ymin>30</ymin>
+					<xmax>348</xmax>
+					<ymax>267</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/鱼骨</name>
+				<bndbox>
+					<xmin>79</xmin>
+					<ymin>123</ymin>
+					<xmax>388</xmax>
+					<ymax>395</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621391173272</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>406</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+</doc>

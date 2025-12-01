@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾4\fimg_74.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>其他垃圾/一次性快餐盒</name>
+				<bndbox>
+					<xmin>18</xmin>
+					<ymin>48</ymin>
+					<xmax>422</xmax>
+					<ymax>416</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621418967259</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>452</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+</doc>

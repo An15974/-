@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3729.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/金属食品罐</name>
+				<bndbox>
+					<xmin>12</xmin>
+					<ymin>20</ymin>
+					<xmax>132</xmax>
+					<ymax>165</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621396034598</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>279</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+</doc>

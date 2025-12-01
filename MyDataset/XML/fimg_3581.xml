@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3581.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/纸板箱</name>
+				<bndbox>
+					<xmin>11</xmin>
+					<ymin>-4</ymin>
+					<xmax>146</xmax>
+					<ymax>122</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621394672305</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+</doc>

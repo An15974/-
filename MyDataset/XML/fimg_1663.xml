@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1663.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>其他垃圾/一次性快餐盒</name>
+				<bndbox>
+					<xmin>13</xmin>
+					<ymin>-2</ymin>
+					<xmax>172</xmax>
+					<ymax>401</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name>其他垃圾/一次性快餐盒</name>
+				<bndbox>
+					<xmin>234</xmin>
+					<ymin>4</ymin>
+					<xmax>389</xmax>
+					<ymax>399</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621407189317</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>418</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+</doc>

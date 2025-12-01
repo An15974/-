@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_2603.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/插头电线</name>
+				<bndbox>
+					<xmin>30</xmin>
+					<ymin>55</ymin>
+					<xmax>462</xmax>
+					<ymax>433</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621324134509</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>475</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1502.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/包</name>
+				<bndbox>
+					<xmin>43</xmin>
+					<ymin>64</ymin>
+					<xmax>351</xmax>
+					<ymax>364</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621392624571</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>373</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+</doc>

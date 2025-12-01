@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾3\fimg_2123.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>93</xmin>
+					<ymin>305</ymin>
+					<xmax>259</xmax>
+					<ymax>493</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>359</xmin>
+					<ymin>191</ymin>
+					<xmax>490</xmax>
+					<ymax>291</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>260</xmin>
+					<ymin>317</ymin>
+					<xmax>431</xmax>
+					<ymax>493</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621414254269</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>518</width>
+		<height>518</height>
+		<depth>3</depth>
+	</size>
+</doc>

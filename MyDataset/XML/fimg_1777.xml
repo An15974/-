@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1777.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>42</xmin>
+					<ymin>99</ymin>
+					<xmax>360</xmax>
+					<ymax>347</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621408986007</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>391</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+</doc>

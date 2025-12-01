@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3805.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/锅</name>
+				<bndbox>
+					<xmin>95</xmin>
+					<ymin>304</ymin>
+					<xmax>456</xmax>
+					<ymax>525</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621405859724</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+</doc>

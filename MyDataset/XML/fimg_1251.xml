@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1251.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>其他垃圾/一次性快餐盒</name>
+				<bndbox>
+					<xmin>185</xmin>
+					<ymin>148</ymin>
+					<xmax>332</xmax>
+					<ymax>280</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name>其他垃圾/一次性快餐盒</name>
+				<bndbox>
+					<xmin>41</xmin>
+					<ymin>93</ymin>
+					<xmax>145</xmax>
+					<ymax>230</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name>其他垃圾/一次性快餐盒</name>
+				<bndbox>
+					<xmin>139</xmin>
+					<ymin>40</ymin>
+					<xmax>287</xmax>
+					<ymax>126</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621388791884</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>349</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+</doc>

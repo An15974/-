@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\垃圾1\fimg_1269.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>62</xmin>
+					<ymin>33</ymin>
+					<xmax>146</xmax>
+					<ymax>179</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>162</xmin>
+					<ymin>47</ymin>
+					<xmax>242</xmax>
+					<ymax>187</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>250</xmin>
+					<ymin>35</ymin>
+					<xmax>334</xmax>
+					<ymax>183</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>250</xmin>
+					<ymin>187</ymin>
+					<xmax>335</xmax>
+					<ymax>347</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>152</xmin>
+					<ymin>192</ymin>
+					<xmax>242</xmax>
+					<ymax>343</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 厨余垃圾/蛋壳</name>
+				<bndbox>
+					<xmin>63</xmin>
+					<ymin>183</ymin>
+					<xmax>146</xmax>
+					<ymax>335</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621388933708</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>411</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+</doc>

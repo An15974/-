@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_3694.jpg","outputs":{"object":[{"name":" 可回收物/酒瓶","bndbox":{"xmin":6,"ymin":0,"xmax":62,"ymax":174}},{"name":" 可回收物/酒瓶","bndbox":{"xmin":234,"ymin":31,"xmax":274,"ymax":172}},{"name":" 可回收物/酒瓶","bndbox":{"xmin":151,"ymin":11,"xmax":190,"ymax":174}}]},"time_labeled":1621395710023,"labeled":true,"size":{"width":284,"height":177,"depth":3}}

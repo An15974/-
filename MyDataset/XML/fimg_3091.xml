@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3091.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/毛绒玩具</name>
+				<bndbox>
+					<xmin>139</xmin>
+					<ymin>45</ymin>
+					<xmax>323</xmax>
+					<ymax>325</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621390128152</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>333</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+</doc>

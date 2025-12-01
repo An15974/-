@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_2449.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/快递纸袋</name>
+				<bndbox>
+					<xmin>10</xmin>
+					<ymin>24</ymin>
+					<xmax>294</xmax>
+					<ymax>288</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621323000551</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3698.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/酒瓶</name>
+				<bndbox>
+					<xmin>38</xmin>
+					<ymin>7</ymin>
+					<xmax>90</xmax>
+					<ymax>186</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/酒瓶</name>
+				<bndbox>
+					<xmin>114</xmin>
+					<ymin>74</ymin>
+					<xmax>146</xmax>
+					<ymax>207</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/酒瓶</name>
+				<bndbox>
+					<xmin>188</xmin>
+					<ymin>94</ymin>
+					<xmax>220</xmax>
+					<ymax>211</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621395763093</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>235</width>
+		<height>215</height>
+		<depth>3</depth>
+	</size>
+</doc>

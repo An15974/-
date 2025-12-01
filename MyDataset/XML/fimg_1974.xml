@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾3\fimg_1974.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>1</xmin>
+					<ymin>4</ymin>
+					<xmax>123</xmax>
+					<ymax>87</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>129</xmin>
+					<ymin>3</ymin>
+					<xmax>241</xmax>
+					<ymax>92</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>245</xmin>
+					<ymin>7</ymin>
+					<xmax>357</xmax>
+					<ymax>93</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>1</xmin>
+					<ymin>103</ymin>
+					<xmax>122</xmax>
+					<ymax>171</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>130</xmin>
+					<ymin>99</ymin>
+					<xmax>238</xmax>
+					<ymax>169</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>245</xmin>
+					<ymin>97</ymin>
+					<xmax>357</xmax>
+					<ymax>169</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>1</xmin>
+					<ymin>175</ymin>
+					<xmax>119</xmax>
+					<ymax>256</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>123</xmin>
+					<ymin>174</ymin>
+					<xmax>246</xmax>
+					<ymax>257</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>249</xmin>
+					<ymin>175</ymin>
+					<xmax>357</xmax>
+					<ymax>259</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>1</xmin>
+					<ymin>263</ymin>
+					<xmax>117</xmax>
+					<ymax>355</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>125</xmin>
+					<ymin>258</ymin>
+					<xmax>243</xmax>
+					<ymax>353</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/塑料玩具</name>
+				<bndbox>
+					<xmin>253</xmin>
+					<ymin>259</ymin>
+					<xmax>357</xmax>
+					<ymax>355</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621413152225</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>362</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_3264.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/玻璃杯</name>
+				<bndbox>
+					<xmin>2</xmin>
+					<ymin>104</ymin>
+					<xmax>86</xmax>
+					<ymax>289</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/玻璃杯</name>
+				<bndbox>
+					<xmin>108</xmin>
+					<ymin>104</ymin>
+					<xmax>190</xmax>
+					<ymax>288</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 可回收物/玻璃杯</name>
+				<bndbox>
+					<xmin>206</xmin>
+					<ymin>81</ymin>
+					<xmax>311</xmax>
+					<ymax>285</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621392055789</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>316</width>
+		<height>316</height>
+		<depth>3</depth>
+	</size>
+</doc>

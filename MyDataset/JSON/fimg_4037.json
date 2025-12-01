@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\w\\Desktop\\垃圾标注\\fimg_4037.jpg","outputs":{"object":[{"name":" 有害垃圾/干电池","bndbox":{"xmin":42,"ymin":81,"xmax":140,"ymax":163}},{"name":" 有害垃圾/干电池","bndbox":{"xmin":146,"ymin":9,"xmax":226,"ymax":147}}]},"time_labeled":1621407826866,"labeled":true,"size":{"width":275,"height":183,"depth":3}}

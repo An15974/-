@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾4\fimg_491.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 其他垃圾/烟蒂</name>
+				<bndbox>
+					<xmin>34</xmin>
+					<ymin>134</ymin>
+					<xmax>102</xmax>
+					<ymax>190</ymax>
+				</bndbox>
+			</item>
+			<item>
+				<name> 其他垃圾/烟蒂</name>
+				<bndbox>
+					<xmin>206</xmin>
+					<ymin>198</ymin>
+					<xmax>274</xmax>
+					<ymax>234</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621418240703</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>337</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+</doc>

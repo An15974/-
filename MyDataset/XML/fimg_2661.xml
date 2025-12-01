@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\w\Desktop\垃圾标注\fimg_2661.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name> 可回收物/旧衣服</name>
+				<bndbox>
+					<xmin>5</xmin>
+					<ymin>9</ymin>
+					<xmax>275</xmax>
+					<ymax>169</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1621324425373</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+</doc>
